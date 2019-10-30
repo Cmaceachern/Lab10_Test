@@ -8,5 +8,3 @@
 # print(sqrParameterFinal, "is your final parameter")
 
 
-nameFull = input('Input your name here: ')
-print(nameFull)
