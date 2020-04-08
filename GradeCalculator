@@ -1,18 +1,18 @@
 import math
 
-# print("{:10f}".format(math.pi))
-# # print({math.pi:5f})
-# # print({math.pi:3f})
-# # print({math.pi:.0f})
+print("{:10f}".format(math.pi))
+print({math.pi:5f})
+print({math.pi:3f})
+print({math.pi:.0f})
 
-# startInt = int(input("Give the start value: "))
-# endInt = int(input("Give the end value: "))
-#
-#
-#
-# count = 1
-# for i in range(startInt,endInt):
-#     print(i, i**2, i**3, i**4)
+ startInt = int(input("Give the start value: "))
+ endInt = int(input("Give the end value: "))
+
+
+
+ count = 1
+ for i in range(startInt,endInt):
+     print(i, i**2, i**3, i**4)
 
 
 answerKey = (A,C,True,False, "Heap", "Matrix")
